@@ -1,0 +1,17 @@
+.img1 {
+  width: 450px !important;
+  height: 200px !important;
+}
+
+.cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.secondImage {
+    width: 87% !important;
+}
+
+.firstp .secondp{
+    width: 80% !important;
+}

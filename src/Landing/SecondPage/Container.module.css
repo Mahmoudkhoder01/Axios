@@ -1,0 +1,60 @@
+.container{
+    position: relative;
+}
+
+.navdiv{
+    position: absolute;
+    bottom: 33rem;
+}
+
+.coverPhoto{
+    width: 100%;
+}
+
+/* nav bar */
+  ul li {
+    margin: 20px 20px;
+  }
+  
+  .nav-link {
+    color: white !important;
+  }
+  
+  a:active {
+    color: green;
+  }
+  
+  .Logo-type {
+    width: 300px;
+    height: 70px;
+  }
+
+  .headerDiv{
+    position: absolute;
+    bottom: 5rem;
+    width: auto;
+    margin-left: 5rem;
+  }
+
+  .p2{
+    font-size: 4rem;
+  }
+
+.author{
+    margin: 2rem;
+}
+
+.icons{
+    color: white;
+    margin: 0 10px;
+}
+
+.LargePhoto{
+    width: 100%;
+}
+.pDesctiption{
+    color: #686868 !important;
+    margin-left: 4rem;
+    width: 90%;
+    margin-top: 2rem;
+}

@@ -1,0 +1,40 @@
+/* nav bar */
+.links {
+  justify-content: end;
+}
+ul li {
+  margin: 20px 20px;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+a:active {
+  color: green;
+}
+
+.Logo-type {
+  width: 300px;
+  height: 70px;
+}
+
+.bg-img {
+  min-height: 35rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+/* nav bar */
+
+.header-div {
+  position: relative;
+  top: 6rem;
+  margin-left: 5rem;
+}
+
+.p-2 {
+  font-size: 5rem;
+  width: 30%;
+}
